@@ -1,0 +1,65 @@
+.titulo {
+    line-height: 9px;
+    text-align: center;
+    font-size: 15 px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.pacotes {
+    text-align: center;
+    font-size: 20px;
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+}
+#riodejaneiro {
+    height: 350px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.pacoterio {
+    line-height: 0px;
+}
+
+.diariasrio {
+    line-height: 2px;
+}
+.caferio p{
+    display: inline-block;
+    color: rgb(135, 135, 231);
+}
+.hotelrio{
+    line-height: 1px;
+}
+.valorrio{
+    font-size: 25px;
+    line-height: 4px;
+}
+#balneario{
+    height: 300px;
+    height: 300px;
+    border-radius: 10%;
+}
+.pacotebalneario{
+    margin-left: 650px;
+}
+.pacotebalneario {
+    line-height: 0px;
+}
+
+.diariasbalneario {
+    line-height: 2px;
+}
+.cafebalneario p{
+    display: inline-block;
+    color: rgb(135, 135, 231);
+}
+.hotelbalneario{
+    line-height: 1px;
+}
+.valorbalneario{
+    font-size: 25px;
+    line-height: 4px;
+}
